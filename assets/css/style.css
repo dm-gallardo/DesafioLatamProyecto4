@@ -1,0 +1,59 @@
+body {
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+nav {
+    background-color: #28A745;
+    font-weight: 500;
+}
+
+nav img {
+    width: 86px;
+}
+
+main h5 {
+    color: #212529;
+    font-weight: 300;
+}
+
+main h6 {
+    color: #707070;
+    font-weight: 300;
+}
+
+p {
+    color: #707070;
+    font-size: 16px;
+    margin: 0;
+}
+
+i {
+    padding-right: 0.5em;
+}
+
+.sale-price p {
+    font-size: 20px;
+    color: #28A745;
+    font-weight: 500;
+}
+
+form {
+    background-color: #28A745;
+}
+
+form h2 {
+    color: #fff;
+    text-align: center;
+    font-size: 21px;
+    font-weight: 500;
+}
+
+form label {
+    color: #707070;
+}
+
+footer img {
+    width: 82px;
+    padding-bottom: 0.5em;
+}
